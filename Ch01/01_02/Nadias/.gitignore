@@ -1,0 +1,14 @@
+
+.gradle/
+.idea/gradle.xml
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/runConfigurations.xml
+.idea/workspace.xml
+app/build/
+app/libs/
+app/src/main/res/menuy/
+build/
+gradlew
+local.properties
